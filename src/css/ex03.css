@@ -1,0 +1,21 @@
+body{
+    width: 500px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+p{
+    font-size: 15px;
+}
+
+h3{
+    float: right;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.img{
+    width:300px;
+}
