@@ -13,6 +13,11 @@ import Ex10 from './views/Ex10.jsx';
 import Ex11 from './views/Ex11.jsx';
 import Ex12 from './views/Ex12.jsx';
 import Ex13 from './views/Ex13.jsx';
+import Ex14 from './views/Ex14.jsx';
+import Ex15 from './views/Ex15.jsx';
+import Ex16 from './views/Ex16.jsx';
+import Ex17 from './views/Ex17.jsx';
+
 
 
 function App() {
@@ -34,6 +39,10 @@ function App() {
           <Route path='/ex11' element={<Ex11 />} />
           <Route path='/ex12' element={<Ex12 />} />
           <Route path='/ex13' element={<Ex13 />} />
+          <Route path='/ex14' element={<Ex14 />} />
+          <Route path='/ex15' element={<Ex15 />} />
+          <Route path='/ex16' element={<Ex16 />} />
+          <Route path='/ex17' element={<Ex17 />} />
 
 
         </Routes>
