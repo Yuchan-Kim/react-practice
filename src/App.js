@@ -19,6 +19,7 @@ import Ex16 from './views/Ex16.jsx';
 import Ex17 from './views/Ex17.jsx';
 import Ex18 from './views/Ex18.jsx';
 import Ex19 from './views/Ex19.jsx';
+import Test from './views/Test01.jsx';
 
 
 
@@ -47,6 +48,7 @@ function App() {
           <Route path='/ex17' element={<Ex17 />} />
           <Route path='/ex18' element={<Ex18 />} />
           <Route path='/ex19' element={<Ex19 />} />
+          <Route path='/test' element={<Test />} />
 
 
         </Routes>
